@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { toast } from 'react-toastify'
 import { format, isToday, isTomorrow, addDays, startOfDay } from 'date-fns'
+import { Link } from 'react-router-dom'
 import ApperIcon from './ApperIcon'
 import { bookingService, guestService, roomService } from '../services'
-
 const MainFeature = () => {
   const [bookings, setBookings] = useState([])
   const [guests, setGuests] = useState([])
