@@ -1,0 +1,182 @@
+[
+  {
+    "guestId": "guest_001",
+    "name": "John Anderson",
+    "email": "john.anderson@email.com",
+    "phone": "+1-555-0101",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "preferences": ["Non-smoking room", "High floor", "Ocean view"],
+    "bookingHistory": ["booking_001"]
+  },
+  {
+    "guestId": "guest_002",
+    "name": "Sarah Mitchell",
+    "email": "sarah.mitchell@email.com",
+    "phone": "+1-555-0102",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90210",
+      "country": "USA"
+    },
+    "preferences": ["Pet-friendly", "Ground floor", "Quiet room"],
+    "bookingHistory": ["booking_002"]
+  },
+  {
+    "guestId": "guest_003",
+    "name": "Michael Chen",
+    "email": "michael.chen@email.com",
+    "phone": "+1-555-0103",
+    "address": {
+      "street": "789 Pine Road",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102",
+      "country": "USA"
+    },
+    "preferences": ["Business center access", "Late checkout", "Gym access"],
+    "bookingHistory": ["booking_003"]
+  },
+  {
+    "guestId": "guest_004",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@email.com",
+    "phone": "+1-555-0104",
+    "address": {
+      "street": "321 Elm Street",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33101",
+      "country": "USA"
+    },
+    "preferences": ["Pool access", "Room service", "Mini bar"],
+    "bookingHistory": ["booking_004"]
+  },
+  {
+    "guestId": "guest_005",
+    "name": "David Wilson",
+    "email": "david.wilson@email.com",
+    "phone": "+1-555-0105",
+    "address": {
+      "street": "654 Maple Lane",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "country": "USA"
+    },
+    "preferences": ["Spa services", "City view", "Express checkout"],
+    "bookingHistory": ["booking_005"]
+  },
+  {
+    "guestId": "guest_006",
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@email.com",
+    "phone": "+1-555-0106",
+    "address": {
+      "street": "987 Cedar Boulevard",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101",
+      "country": "USA"
+    },
+    "preferences": ["WiFi", "Work desk", "Coffee machine"],
+    "bookingHistory": ["booking_006"]
+  },
+  {
+    "guestId": "guest_007",
+    "name": "Robert Davis",
+    "email": "robert.davis@email.com",
+    "phone": "+1-555-0107",
+    "address": {
+      "street": "147 Birch Street",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02101",
+      "country": "USA"
+    },
+    "preferences": ["Concierge service", "Valet parking", "Airport shuttle"],
+    "bookingHistory": ["booking_007"]
+  },
+  {
+    "guestId": "guest_008",
+    "name": "Jennifer Brown",
+    "email": "jennifer.brown@email.com",
+    "phone": "+1-555-0108",
+    "address": {
+      "street": "258 Spruce Way",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80201",
+      "country": "USA"
+    },
+    "preferences": ["Mountain view", "Balcony", "Fireplace"],
+    "bookingHistory": ["booking_008"]
+  },
+  {
+    "guestId": "guest_009",
+    "name": "James Taylor",
+    "email": "james.taylor@email.com",
+    "phone": "+1-555-0109",
+    "address": {
+      "street": "369 Willow Drive",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001",
+      "country": "USA"
+    },
+    "preferences": ["Pool view", "Air conditioning", "Room upgrade"],
+    "bookingHistory": ["booking_009"]
+  },
+  {
+    "guestId": "guest_010",
+    "name": "Amanda White",
+    "email": "amanda.white@email.com",
+    "phone": "+1-555-0110",
+    "address": {
+      "street": "741 Ash Court",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97201",
+      "country": "USA"
+    },
+    "preferences": ["Garden view", "Kitchenette", "Laundry service"],
+    "bookingHistory": ["booking_010"]
+  },
+  {
+    "guestId": "guest_011",
+    "name": "Christopher Lee",
+    "email": "christopher.lee@email.com",
+    "phone": "+1-555-0111",
+    "address": {
+      "street": "852 Poplar Avenue",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "73301",
+      "country": "USA"
+    },
+    "preferences": ["Business lounge", "Meeting room access", "Printer access"],
+    "bookingHistory": ["booking_011"]
+  },
+  {
+    "guestId": "guest_012",
+    "name": "Michelle Garcia",
+    "email": "michelle.garcia@email.com",
+    "phone": "+1-555-0112",
+    "address": {
+      "street": "963 Hickory Place",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "37201",
+      "country": "USA"
+    },
+    "preferences": ["Live music venue nearby", "Late night dining", "Entertainment"],
+    "bookingHistory": ["booking_012"]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "bookingId": "booking_001",
+    "guestId": "guest_001",
+    "roomId": "room_101",
+    "checkInDate": "2024-01-15T00:00:00.000Z",
+    "checkOutDate": "2024-01-18T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 450,
+    "paymentStatus": "paid"
+  },
+  {
+    "bookingId": "booking_002",
+    "guestId": "guest_002",
+    "roomId": "room_102",
+    "checkInDate": "2024-01-16T00:00:00.000Z",
+    "checkOutDate": "2024-01-20T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 600,
+    "paymentStatus": "partial"
+  },
+  {
+    "bookingId": "booking_003",
+    "guestId": "guest_003",
+    "roomId": "room_201",
+    "checkInDate": "2024-01-17T00:00:00.000Z",
+    "checkOutDate": "2024-01-19T00:00:00.000Z",
+    "status": "pending",
+    "totalAmount": 800,
+    "paymentStatus": "pending"
+  },
+  {
+    "bookingId": "booking_004",
+    "guestId": "guest_004",
+    "roomId": "room_103",
+    "checkInDate": "2024-01-18T00:00:00.000Z",
+    "checkOutDate": "2024-01-22T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 600,
+    "paymentStatus": "paid"
+  },
+  {
+    "bookingId": "booking_005",
+    "guestId": "guest_005",
+    "roomId": "room_202",
+    "checkInDate": "2024-01-19T00:00:00.000Z",
+    "checkOutDate": "2024-01-21T00:00:00.000Z",
+    "status": "completed",
+    "totalAmount": 1000,
+    "paymentStatus": "paid"
+  },
+  {
+    "bookingId": "booking_006",
+    "guestId": "guest_006",
+    "roomId": "room_104",
+    "checkInDate": "2024-01-20T00:00:00.000Z",
+    "checkOutDate": "2024-01-24T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 600,
+    "paymentStatus": "paid"
+  },
+  {
+    "bookingId": "booking_007",
+    "guestId": "guest_007",
+    "roomId": "room_301",
+    "checkInDate": "2024-01-21T00:00:00.000Z",
+    "checkOutDate": "2024-01-25T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 2000,
+    "paymentStatus": "partial"
+  },
+  {
+    "bookingId": "booking_008",
+    "guestId": "guest_008",
+    "roomId": "room_105",
+    "checkInDate": "2024-01-22T00:00:00.000Z",
+    "checkOutDate": "2024-01-26T00:00:00.000Z",
+    "status": "pending",
+    "totalAmount": 600,
+    "paymentStatus": "pending"
+  },
+  {
+    "bookingId": "booking_009",
+    "guestId": "guest_009",
+    "roomId": "room_203",
+    "checkInDate": "2024-01-23T00:00:00.000Z",
+    "checkOutDate": "2024-01-27T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 1200,
+    "paymentStatus": "paid"
+  },
+  {
+    "bookingId": "booking_010",
+    "guestId": "guest_010",
+    "roomId": "room_106",
+    "checkInDate": "2024-01-24T00:00:00.000Z",
+    "checkOutDate": "2024-01-28T00:00:00.000Z",
+    "status": "cancelled",
+    "totalAmount": 600,
+    "paymentStatus": "pending"
+  },
+  {
+    "bookingId": "booking_011",
+    "guestId": "guest_011",
+    "roomId": "room_302",
+    "checkInDate": "2024-01-25T00:00:00.000Z",
+    "checkOutDate": "2024-01-29T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 2000,
+    "paymentStatus": "paid"
+  },
+  {
+    "bookingId": "booking_012",
+    "guestId": "guest_012",
+    "roomId": "room_107",
+    "checkInDate": "2024-01-26T00:00:00.000Z",
+    "checkOutDate": "2024-01-30T00:00:00.000Z",
+    "status": "confirmed",
+    "totalAmount": 600,
+    "paymentStatus": "partial"
+  }
+]

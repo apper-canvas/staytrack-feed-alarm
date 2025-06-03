@@ -1,0 +1,130 @@
+[
+  {
+    "roomId": "room_101",
+    "roomNumber": "101",
+    "type": "single",
+    "status": "occupied",
+    "price": 150,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Work desk"]
+  },
+  {
+    "roomId": "room_102",
+    "roomNumber": "102",
+    "type": "double",
+    "status": "occupied",
+    "price": 200,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini fridge", "Coffee machine"]
+  },
+  {
+    "roomId": "room_103",
+    "roomNumber": "103",
+    "type": "double",
+    "status": "occupied",
+    "price": 200,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini fridge", "Balcony"]
+  },
+  {
+    "roomId": "room_104",
+    "roomNumber": "104",
+    "type": "double",
+    "status": "occupied",
+    "price": 200,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini fridge", "City view"]
+  },
+  {
+    "roomId": "room_105",
+    "roomNumber": "105",
+    "type": "single",
+    "status": "reserved",
+    "price": 150,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Work desk", "Safe"]
+  },
+  {
+    "roomId": "room_106",
+    "roomNumber": "106",
+    "type": "single",
+    "status": "available",
+    "price": 150,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Work desk"]
+  },
+  {
+    "roomId": "room_107",
+    "roomNumber": "107",
+    "type": "double",
+    "status": "occupied",
+    "price": 200,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini fridge", "Coffee machine"]
+  },
+  {
+    "roomId": "room_108",
+    "roomNumber": "108",
+    "type": "single",
+    "status": "available",
+    "price": 150,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Work desk", "Safe"]
+  },
+  {
+    "roomId": "room_201",
+    "roomNumber": "201",
+    "type": "suite",
+    "status": "occupied",
+    "price": 400,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Living area", "Kitchenette", "Ocean view"]
+  },
+  {
+    "roomId": "room_202",
+    "roomNumber": "202",
+    "type": "suite",
+    "status": "available",
+    "price": 400,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Living area", "Kitchenette", "Balcony"]
+  },
+  {
+    "roomId": "room_203",
+    "roomNumber": "203",
+    "type": "deluxe",
+    "status": "occupied",
+    "price": 300,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini bar", "Spa bath", "City view"]
+  },
+  {
+    "roomId": "room_204",
+    "roomNumber": "204",
+    "type": "deluxe",
+    "status": "available",
+    "price": 300,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini bar", "Spa bath", "Garden view"]
+  },
+  {
+    "roomId": "room_205",
+    "roomNumber": "205",
+    "type": "double",
+    "status": "maintenance",
+    "price": 200,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini fridge", "Balcony"]
+  },
+  {
+    "roomId": "room_301",
+    "roomNumber": "301",
+    "type": "suite",
+    "status": "occupied",
+    "price": 500,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Living area", "Kitchenette", "Jacuzzi", "Penthouse view"]
+  },
+  {
+    "roomId": "room_302",
+    "roomNumber": "302",
+    "type": "suite",
+    "status": "occupied",
+    "price": 500,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Living area", "Kitchenette", "Fireplace", "Terrace"]
+  },
+  {
+    "roomId": "room_303",
+    "roomNumber": "303",
+    "type": "deluxe",
+    "status": "available",
+    "price": 350,
+    "amenities": ["WiFi", "Air conditioning", "TV", "Mini bar", "Spa bath", "Mountain view"]
+  }
+]
