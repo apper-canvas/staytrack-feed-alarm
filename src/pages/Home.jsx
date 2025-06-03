@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
+import { Link } from 'react-router-dom'
 import ApperIcon from '../components/ApperIcon'
 import MainFeature from '../components/MainFeature'
 import { bookingService, guestService, roomService } from '../services'
@@ -186,6 +187,7 @@ const Home = () => {
         </motion.div>
       </main>
     </div>
+</div>
   )
 }
 
